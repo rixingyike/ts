@@ -6,7 +6,6 @@ export default defineUserConfig({
   base: "/",
 
   plugins: [
-    "vuepress-plugin-export",
     searchProPlugin({
       // 索引全部内容
       indexContent: true,
