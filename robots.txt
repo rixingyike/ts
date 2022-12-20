@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ts.yishulun.com/sitemap.xml
+Sitemap: https://yishulun.com/ts/ts/sitemap.xml
