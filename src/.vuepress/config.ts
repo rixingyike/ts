@@ -3,7 +3,9 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  // 每个GitHub帐号下只能有1个个人主页repo，但是可以有不限数量的项目主页repo。
+  // 这个配置对应于repo的名字
+  base: "/ts/",
 
   plugins: [
     searchProPlugin({
