@@ -23,17 +23,15 @@ export default hopeTheme({
   pageInfo: ["Word", "ReadingTime"],
   breadcrumb: false,
   copyright: "",
+  displayFooter: false,
 
   locales: {
     "/": {
-      // navbar
       navbar: enNavbar,
-
-      // sidebar
       sidebar: enSidebar,
 
-      footer: "<p>终身学习，与时间做朋友共同成长<br/>加v9830131与我连接，发送暗号【读者】进读者修仙群<br/>关注微信公众号【艺述论】，回复【TS】下载阶段性PDF全本</p><p><img width=80 height=80 src='/yslqrcode.jpg' /></p>",
-      displayFooter: true,
+      // footer: "<p>终身学习，与时间做朋友共同成长<br/>加v9830131与我连接，发送暗号【读者】进读者修仙群<br/>关注微信公众号【艺述论】，回复【TS】下载阶段性PDF全本</p><p><img width=80 height=80 src='/yslqrcode.jpg' /></p>",
+      // displayFooter: true,
       // copyright: "<p>Copyright © 2022 艺述论</p> <a href='https://beian.miit.gov.cn/' target='_blank'>京ICP备14007000号-7</a>",
 
       metaLocales: {
