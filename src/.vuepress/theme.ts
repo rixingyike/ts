@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "rixingyike/ts",
 
-  docsDir: "docs/src",
+  docsDir: "src",
   lastUpdated: true,
   // pageInfo: false,
   // pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
